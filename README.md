@@ -1,6 +1,6 @@
 ## Play Pictionary with Jibo.
 
-### Built in HackUMass 2016.
+### Built in HackUMass 2016. (http://devpost.com/software/pictionary-with-jibo)
 
 [Jibo SDK & API Documentation](https://developers.jibo.com/sdk/docs/)
 
